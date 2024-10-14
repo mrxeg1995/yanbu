@@ -317,13 +317,13 @@ overflow-x: hidden; }
 .fixed-icon_right {
   right: 20px;
   bottom: 40px;
-  background: #007575;;
+  background: #25D366;
 }
 
 .fixed-icon_left {
   left: 30px;
   bottom: 40px;
-  background-color: #558cdf;
+  background-color: var(--marigold);
 }
 
 .fixed-icon_right a,
